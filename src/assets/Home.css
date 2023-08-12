@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Karla:wght@300&family=Montserrat:ital,wght@1,600&family=Ysabeau+SC:wght@500&display=swap');
+
+.row{
+  --bs-gutter-x: 0 !important;
+
+}
+.Homie{
+  
+  background-color:#fbfbfd;
+}
+.bannertext{
+  
+    font-family: 'Montserrat', sans-serif;
+    color: rgb(240, 234, 234);
+    text-shadow: 6px 6px 6px #3d3939;
+    font-size: 4.5rem;
+    position: absolute;
+    top: 20%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    }
+    .navbartext{
+      font-family: 'Montserrat', sans-serif;
+    }
+    
+    
+    .card {
+      box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+      max-width: 300px;
+      margin: auto;
+      text-align: center;
+      font-family: arial;
+    }
